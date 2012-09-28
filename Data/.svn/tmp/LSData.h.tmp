@@ -1,0 +1,145 @@
+//
+//  LSData.h
+//  Locoso
+//
+//  Created by zhiwei ma on 12-3-17.
+//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+
+//
+//LSDataCategory
+//
+@interface LSDataCategory : NSObject
+{
+    long            _ID;
+    NSString*       _name;
+    NSString*       _spell;
+    NSString*       _shortname;
+    NSString*       _ico;
+    NSString*       _parentnames;
+    NSString*       _parentids;
+    long            _parented;
+    NSString*       _cityname;
+    long            _cityid;
+    NSInteger       _ishot;
+    NSString*       _arrchildid;
+    NSInteger       _childnum;
+    NSInteger       _depth;
+    NSString*       _childid;
+}
+@property (nonatomic) long ID;
+@property (nonatomic, retain) NSString* name;
+@property (nonatomic, retain) NSString* spell;
+@property (nonatomic, retain) NSString* shortname;
+@property (nonatomic, retain) NSString* ico;
+@property (nonatomic, retain) NSString* parentnames;
+@property (nonatomic, retain) NSString* parentids;
+@property (nonatomic) long parented;
+@property (nonatomic, retain) NSString* cityname;
+@property (nonatomic) long cityid;
+@property (nonatomic) NSInteger ishot;
+@property (nonatomic, retain) NSString* arrchildid;
+@property (nonatomic) NSInteger childnum;
+@property (nonatomic) NSInteger depth;
+@property (nonatomic, retain) NSString* childid;
+@end
+
+//
+//LSDataCompany
+//
+@interface LSDataCompany : NSObject
+{
+    long            _companyID;
+    NSString*       _companyName;
+    NSString*       _logo;
+    NSString*       _address;
+    
+
+}
+@property (nonatomic) long companyID;
+@property (nonatomic, retain) NSString* companyName;
+@property (nonatomic, retain) NSString* logo;
+@property (nonatomic, retain) NSString* address;
+
+@end
+
+//
+//LSDataCompanyDetail
+@interface LSDataCompanyDetail : LSDataCompany
+{
+    NSString*       _telephone;
+    NSString*       _mapx;
+    NSString*       _mapy;
+    NSString*       _homepage;
+    NSString*       _siteurl;
+    NSString*       _info;
+    NSString*       _contactpeople;
+    NSString*       _contactphone;
+    NSString*       _email;
+    NSString*       _product;
+    long            _siteid;
+    NSString*       _icname;
+    NSString*       _icaddress;
+    NSString*       _icbusiness;
+}
+@property (nonatomic, retain) NSString*       contactphone;
+@property (nonatomic, retain) NSString*       mapx;
+@property (nonatomic, retain) NSString*       mapy;
+
+@end
+
+//
+//LSDataProduct
+//
+@interface LSDataProduct : NSObject
+{
+    long            _producid;
+    NSString*       _productname;
+    NSString*       _content;
+    NSString*       _imageUrl;
+}
+@property (nonatomic) long producid;
+@property (nonatomic, retain) NSString* productname;
+@property (nonatomic, retain) NSString* imageUrl;
+@property (nonatomic, retain) NSString* content;
+@end
+
+<<<<<<< .mine
+@end
+
+//
+//LSDataCount
+//
+@interface LSDataCount : NSObject
+{
+
+    NSString*       photocount;
+    NSString*       mesgcount;
+    NSString*       viewCount;
+    NSString*       procount;
+    NSString*       newscount;
+}
+
+@property (nonatomic, retain) NSString* photocount;
+@property (nonatomic, retain) NSString* mesgcount;
+@property (nonatomic, retain) NSString* viewCount;
+@property (nonatomic, retain) NSString* procount;
+@property (nonatomic, retain) NSString* newscount;
+@end=======
+//
+//LSDataNews
+//
+@interface LSDataNews : NSObject
+{
+    long _articleid;
+    NSString* _title;
+}
+@property (nonatomic) long articleid;
+@property (nonatomic, retain) NSString* title;
+@end
+
+
+
+>>>>>>> .r142

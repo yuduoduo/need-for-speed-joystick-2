@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  NFSJoystick
+
+  Created by  on 11-10-19.
+  Copyright (c) 2011年 __MyCompanyName__. All rights reserved.
+*/
+"UnableToConnect"="연결할 수 없습니다";
+"troubleshooting"="Could not find a server to connect to,would you like help troubleshooting?";
+"troubleshooting alarm"="문제 해결";
+"Shutdown"="셧다운";
+"Boot"="부팅";
+"HelpTitle1"="1. 설치";
+"HelpBody1"="The first step is to install the server application on your computer so that the app can connect to it. ";
+"HelpTitle2"="2. 서버 설치";
+"HelpBody2"="The Server tab contains all the settings related to networking the application. You can see the detail in the help page";
+"HelpTitle3"="3. 연결";
+"HelpBody3"="After you install the server on your computer, please run the app on your device. It should automatically connect when it starts up. However, if it does not connect, there is most likely something on your network or computer that is preventing it from connecting. ";
+"HelpTitle4"="4. 문제 해결";
+"HelpBody4"="If you are unable to connect, please refer to the troubleshooting steps below and the forum for help. ";
+"HelpTitle5"="5. 원격 마우스";
+"HelpBody5"="The first option for controlling your computer is to use this touch pad. This works the same as the touch pad on your laptop.";
+"HelpTitle6"="6. 키보드";
+"HelpBody6"="The keyboard is hidden by default. Just shake the device in an leftward direction to bring up the keyboard. ";
+"HelpTitle7"="7. 게임 컨트롤";
+"HelpBody7"="Now you can control the game,just use the accelerate and brake button to run or stop,turn your iPhone/iPod/iPad left or right to control the car left or right.";
+"Connected"="Connected";
+"Searching"="검색 중 ...";
+"Done"="Done";
+"Next"="Next";
+"Auto search for services"="Auto search for services or";
+"or enter your computer's IP & Port:"="enter your computer's IP&Port:";
+"Server IP"="서버 IP";
+"Port"="포트";
+"Status"="상태";
+"Options"="옵션";
+"Sound"="사운드";
+"Accelerometer"="Accelerometer";
+"Support"="Support";
+"View Help"="도움말보기";
+"Demo video"="데모 비디오";
+"Other apps by us"="다른 어플들";
+"Local Language"="Local Language";
+"Volunteer Translator"="번역 지원하기";
+"Review"="Review";
+"Rate/Review it"="프로그램의 평가";
+"Tell Friends"= "친구에게 소개하기";
+"EmailTitle1"="이 프로그램 정말 최고예요. 한 번 확인해 보세요!";
+"EmailBody1"="http://itunes.apple.com/app/need-for-speed-joystick/id375490342?mt=8";
+"EmailTitle2"="다른 언어로의 번역을 도울 수 있습니다";
+"EmailBody2"="(어떤 언어로의 번역을 도와주실 수 있는지 알려주세요. 감사합니다!)";
+"Full Version"="가득 차있는 버전";
+"Full Version Features 1"="-Tech support & Free updates";
+"Full Version Features 2"="-No Ads";
+"Full Version Features 3"="-Game controller";
+"News"="더";
+"Like This App?"="이 응용 프로그램을 사랑한다 고요?";
+"Later" = "Later";
+"Connected success"="연결 성공";
+"Help"="도움말";
+"Unlock"="잠금 해제";
+"Buy Full version"="전체 버전을 구입";
+"Free Unlock"="무료 잠금 해제";
+"View tutorial and video"="튜토리얼 및 비디오보기";
+"Unlock More Features"="그렇다면, 앱 스토어에 5 별과 비율이 게임을하십시오 더 많은 기능의 잠금을 해제";
+"Free Update Coming"="그렇다면 우리는 무료 업데이 트가 오는 유지할 수 있도록 애플 리케이션 스토어에 5 별과 비율이 게임을하시기 바랍니다.";

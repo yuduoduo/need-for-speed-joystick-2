@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  NFSJoystick
+
+  Created by  on 11-10-19.
+  Copyright (c) 2011年 __MyCompanyName__. All rights reserved.
+*/
+"UnableToConnect" = "Nem lehet csatlakozni";
+"troubleshooting" = "Nem lehet a szerverhez kapcsolódni, megnézed a problémamegoldást?";
+"troubleshooting alarm"="troubleshooting";
+"Shutdown"="Shutdown";
+"Boot"="Boot";
+"HelpBody1" = "Az első lépés hogy telepítsd fel a szerver programot a PC-n hogy az app csatlakozhasson hozzá.";
+"HelpBody2" = "A szerver fül alatt találod a hálózati beállításokat. A segítség alatt részleteket látsz. ";
+"HelpBody3" = "Miután feltelepítetted a szervert, indítsd el az app-ot az eszközödön. Automatikusan csatlakozni fog. Ha nem csatlakozik akkor hálózati probléma lehet, vagy a számítógép nem enged csatlakozni. ";
+"HelpBody4" = "Ha nem tudsz csatlakozni, nézd meg a problémamegoldást lépéseit, illetve kérj segítséget a fórumban";
+"HelpBody5" = "Az első lehetőség az irányításra hogy a számítógéped irányítására használd ezt a touchpad-ot. Úgy működik mint egy laptopé. ";
+"HelpBody6" = "A billentyűzet alapból el van rejtve. Csak rázd meg az eszközöd balra és előugrik.";
+"HelpBody7" = " Most már tudsz irányítani a játékban, használd a gáz illetve fék gombot az induláshoz vagy fékezéshez, forgasd az iEszközöd balra vagy jobbra a kanyarodáshoz.";
+"HelpTitle1" = "1. Telepítés";
+"HelpTitle2" = "2. Szerver beállítások";
+"HelpTitle3" = "3. Csatlakozás";
+"HelpTitle4" = "4. Problémamegoldás";
+"HelpTitle5" = "5. Egér";
+"HelpTitle6" = "6. Billenytűzet";
+"HelpTitle7" = "7. Játék irányítás";
+"Connected" = "Csatlakozva";
+"Searching" = "Keresés...";
+"Tutorial" = "Betanulás";
+"Done" = "Kész";
+"Next" = "Következő";
+"Auto search for services" = "Auto szolgáltatás keresés";
+"or enter your computer's IP & Port:" = "kérem a számítógéped IP&Port-ját:";
+    "Server IP" = "Szerver IP";
+    "Port"="Port";
+"Status" = "Állapot";
+"Options" = "Beállítások";
+    "Sound" = "Hang";
+    "Accelerometer" = "Gyorsulásmérő";
+"Support" = "Segítség";
+    "View Help" = "Súgó";
+    "Demo video"="Demo video";
+    "Other apps by us" = "Más app-ek tőlünk";
+"Local Language" = "Helyi nyelv";
+    "Volunteer Translator" = "Önkéntes fordító";
+"Review" = "Ismertetés";
+    "Rate/Review it" = "Értékel/Ismertet";
+    "Tell Friends" = "Ajánlás";
+"EmailBody1" = "http://itunes.apple.com/app/need-for-speed-joystick/id375490342?mt=8";
+"EmailBody2" = "(Please tell us which language it can be translated with your help. Thank you!)";
+"EmailTitle1" = "Hello, szeretnék egy pillantást venni a programra. Ez király!";
+"EmailTitle2" = "Segíthetek lefordítani más nyelvekre";
+"Full Version" = "Teljes verzió";
+"Full Version Features 1" = "-Technikai segítség & Ingyenen frissítések";
+"Full Version Features 2" = "-Reklámmentes";
+"Full Version Features 3" = "-Játékvezérlő";
+"News"="More";
+"Like This App?"="Like This App?";
+"Later" = "Later";
+"Connected success"="Connected";
+"Help"="Help";
+"Unlock"="Unlock";
+"Buy Full version"="Buy Full version";
+"Free Unlock"="Free Unlock";
+"View tutorial and video"="View tutorial and video";
+"Unlock More Features"="If so, please rate this game with 5 stars on the App Store, unlock more features";
+"Free Update Coming"="If so, please rate this game with 5 stars on the App Store so we can keep the free updates coming.";

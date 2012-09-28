@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork
+END
+ASIHTTPRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIHTTPRequest.m
+END
+ASICacheDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASICacheDelegate.h
+END
+ASINetworkQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASINetworkQueue.h
+END
+ASIDataDecompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIDataDecompressor.h
+END
+ASIAuthenticationDialog.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIAuthenticationDialog.h
+END
+ASIProgressDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIProgressDelegate.h
+END
+ASIDownloadCache.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIDownloadCache.m
+END
+ASINetworkQueue.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASINetworkQueue.m
+END
+ASIDataDecompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIDataDecompressor.m
+END
+ASIAuthenticationDialog.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIAuthenticationDialog.m
+END
+ASIFormDataRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIFormDataRequest.h
+END
+ASIInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIInputStream.h
+END
+ASIFormDataRequest.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIFormDataRequest.m
+END
+ASIHTTPRequestConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIHTTPRequestConfig.h
+END
+ASIInputStream.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIInputStream.m
+END
+ASIHTTPRequestDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIHTTPRequestDelegate.h
+END
+ASIDataCompressor.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIDataCompressor.h
+END
+ASIHTTPRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIHTTPRequest.h
+END
+ASIDownloadCache.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIDownloadCache.h
+END
+ASIDataCompressor.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/locoso.iphone/!svn/ver/105/trunk/Locoso/ASINetwork/ASIDataCompressor.m
+END

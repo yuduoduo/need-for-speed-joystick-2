@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  NFSJoystick
+
+  Created by  on 11-10-19.
+  Copyright (c) 2011年 __MyCompanyName__. All rights reserved.
+*/
+"UnableToConnect"="无法连接";
+"troubleshooting"="不能连接到服务器端，查看如何排除故障吗?";
+"troubleshooting alarm"="故障排除";
+"Shutdown"="关机";
+"Boot"="开机";
+"HelpTitle1"="1. 服务器安装";
+"HelpBody1"="第一步是在你的电脑中安装服务器端，这样应用程序就可以和你的电脑进行通信了。";
+"HelpTitle2"="2. 服务器设置";
+"HelpBody2"="运行服务器端，上面有关于网络连接的相关设置，你可以在帮助栏目里看到详细的信息。";
+"HelpTitle3"="3. 连接";
+"HelpBody3"="在你安装好服务器端之后，请运行本程序。它会自动搜索并且连接。如果不能连接，一定是你的网络或者电脑有阻碍连接的设置。";
+"HelpTitle4"="4. 故障排除";
+"HelpBody4"="如果你不能连接，请查看故障排除栏目或者网站寻求帮助。";
+"HelpTitle5"="5. 远程鼠标";
+"HelpBody5"="第一个功能是用这个	触摸板控制你的电脑，这个就像笔记本上面的	触摸板一样。";
+"HelpTitle6"="6. 键盘";
+"HelpBody6"="初始状态键盘是隐藏的。你只需要向左轻轻甩动iPhone/iPod/iPad,键盘就会弹出来。";
+"HelpTitle7"="7. 游戏控制";
+"HelpBody7"="现在你可以控制游戏了，通过加速和刹车按钮控制前行还是停止，左右轻轻转到你的iPhone/iPod/iPad来控制车子左右拐弯。";
+"HelpTitle8"="8. 遥控汽车/飞机模型";
+"HelpBody8"="最具有创意的功能，通过手机可以控制汽车/飞机模型啦。需要购买模型的，请访问Http://www.ai-iphone.com";
+"Connected"="连接成功";
+"Searching"="搜索...";
+"Tutorial"="Tutorial";
+"Done"="完成";
+"Next"="其次";
+"Auto search for services"="自动搜索服务器，或者";
+"or enter your computer's IP & Port:"="输入服务器的IP&端口:";
+"Server IP"="服务器 IP";
+"Port"="端口";
+"Status"="状态";
+"Options"="选项";
+"Sound"="声音";
+"Accelerometer"="Accelerometer";
+"Support"="Support";
+"View Help"="查看帮助";
+"Demo video"="试玩视频";
+"Other apps by us"="我们的其他应用程序";
+"Local Language"="语言本地化";
+"Volunteer Translator"="翻译自愿者";
+"Review"="评价";
+"Rate/Review it"="给app写评语";
+"Tell Friends"= "告诉朋友";
+"EmailTitle1"="嗨，我想让你看一下这个程序，太棒了！";
+"EmailBody1"="http://itunes.apple.com/app/need-for-speed-joystick/id375490342?mt=8";
+"EmailTitle2"="我可以帮忙把这个程序翻译成其他语言";
+"EmailBody2"="(请告诉我们您能帮助我们翻译成哪种语言，谢谢！)";
+"Full Version"="完整版本";
+"Full Version Features 1"="-技术支持 & 免费更新";
+"Full Version Features 2"="-无广告";
+"Full Version Features 3"="-游戏控制";
+"News"="更多";
+"Like This App?"="喜爱这个程序？";
+"Later" = "Later";
+"Connected success"="连接成功";
+"alertTitle"="请注意";
+"alertMessage"="版本2.0有重大改动，必须升级PC服务器端，否则无法连接成功。请访问http://www.phonegamesoftware.cn";
+"alertDone"="我已经下载最新版本。";
+"view detail"="查看详情";
+"Help"="帮助";
+"Unlock"="解锁";
+"Buy Full version"="购买完整版本";
+"Free Unlock"="免费解锁";
+"View tutorial and video"="查看教程和视频";
+"Unlock More Features"="如果是这样，请率5星在App Store上这个游戏，解锁更多的功能";
+"Free Update Coming"="如果是的话，请用5星在App Store上的评论这个游戏，所以我们可以保持免费更新。";

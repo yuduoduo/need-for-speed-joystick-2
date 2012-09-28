@@ -1,0 +1,1542 @@
+TNFSJoystick
+v7
+r1
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Airport.png
+c0000000048B6553200000000000007DE
+t1219908914
+s2014
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/AppList.png
+c000000004F24A54D0000000000016E39
+t1327801677
+s93753
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/AppList@2x.png
+c000000004EC3C21B0000000000036591
+t1321452059
+s222609
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/AppListViewController.xib
+c000000004EC3C8480000000000004753
+t1321453640
+s18259
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/BoardViewController.xib
+c000000004E9D91F50000000000002EBA
+t1318949365
+s11962
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/CarBrake.png
+c000000004BEB0626000000000000176C
+t1273693734
+s5996
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/ChooseWhichVersion.xib
+c000000004F55CD6E00000000000054E6
+t1331023214
+s21734
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Classes/../MainWindow.xib
+c000000004EA40C850000000000003FC8
+t1319373957
+s16328
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/DataRate.png
+c000000004C36CAF20000000000000203
+t1278659314
+s515
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/DataRate@2x.png
+c000000004C36CAFC00000000000002D7
+t1278659324
+s727
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Default.png
+c000000004E9AF28B00000000000051A0
+t1318777483
+s20896
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Default@2x.png
+c000000004E96EFA4000000000000B9FB
+t1318514596
+s47611
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/DemoViewController.xib
+c000000004EA8D58D000000000000172A
+t1319687565
+s5930
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/FlipsideView.xib
+c000000004EC287E10000000000005443
+t1321371617
+s21571
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HandleController.png
+c000000004BEF1F06000000000000D8FB
+t1273962246
+s55547
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HandleView.xib
+c000000004F4871B90000000000005149
+t1330147769
+s20809
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HandleView2.xib
+c000000004F561896000000000000604F
+t1331042454
+s24655
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HandleView3.xib
+c000000004F53636F0000000000001E47
+t1330865007
+s7751
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HorizMouseView.xib
+c000000004ECDF68C00000000000018EE
+t1322120844
+s6382
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Icon.png
+c000000004E9D24800000000000001E24
+t1318921344
+s7716
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Icon@2x.png
+c000000004E9D24740000000000005E77
+t1318921332
+s24183
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/KeyboardViewController.xib
+c000000004F561829000000000000711F
+t1331042345
+s28959
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MainView.xib
+c000000004EA8C6A80000000000003781
+t1319683752
+s14209
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MouseController.png
+c000000004BFB913400000000000132B4
+t1274777908
+s78516
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MouseDown.aif
+c000000004B6911380000000000015B46
+t1265176888
+s88902
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MouseUp.aif
+c000000004B6911380000000000015B46
+t1265176888
+s88902
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MouseView.xib
+c000000004ECDDF1400000000000052A8
+t1322114836
+s21160
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MyView.xib
+c000000004E9D7A530000000000001824
+t1318943315
+s6180
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/NaviBar.png
+c000000004BE28B32000000000000057A
+t1273137970
+s1402
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Property.png
+c000000004E9E96BD000000000000089D
+t1319016125
+s2205
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Property@2x.png
+c000000004E9E96AE0000000000000A93
+t1319016110
+s2707
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/QuickSwitchHelpView.xib
+c000000004F4F650D0000000000001769
+t1330603277
+s5993
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/QuickSwitchHelp_cn.html
+c000000004EA7F9B60000000000000EF3
+t1319631286
+s3827
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/QuickSwitchHelp_en.html
+c000000004EA7A9690000000000000F8A
+t1319610729
+s3978
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/QuickSwitchHelp_tw.html
+c000000004EA800E0000000000000161A
+t1319633120
+s5658
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Setting.png
+c000000004BE281DE000000000000E78A
+t1273135582
+s59274
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/SettingViewController.xib
+c000000004E9FC0BE00000000000018E2
+t1319092414
+s6370
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Settings.bundle
+c000000004DE235920000000000000110
+t1306670482
+s272
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Steeringwheel.png
+c000000004BE3CAAC000000000000EF0B
+t1273219756
+s61195
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/SupportViewController.xib
+c000000004EA7AF690000000000005188
+t1319612265
+s20872
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/TroubleShootViewController.xib
+c000000004EA7A5680000000000001BBA
+t1319609704
+s7098
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/WWAN5.png
+c0000000048B65532000000000000051D
+t1219908914
+s1309
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/ball.png
+c000000004BEA3970000000000000194E
+t1273641328
+s6478
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/boardBack.png
+c000000004EAB67860000000000001825
+t1319856006
+s6181
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/boardBack@2x.png
+c000000004F2E461E0000000000004411
+t1328432670
+s17425
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Airport.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/AppList.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/AppList@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/AppListViewController.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/BoardViewController.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/CarBrake.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ChooseWhichVersion.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/DataRate.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/DataRate@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Default.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Default@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/DemoViewController.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/FlipsideView.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/HandleController.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/HandleView.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/HandleView2.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/HandleView3.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/HorizMouseView.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Icon.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Icon@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Info.plist
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/KeyboardViewController.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/MainView.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/MainWindow.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/MouseController.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/MouseDown.aif
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/MouseUp.aif
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/MouseView.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/MyView.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/NaviBar.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/PkgInfo
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Property.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Property@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/QuickSwitchHelpView.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/QuickSwitchHelp_cn.html
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/QuickSwitchHelp_en.html
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/QuickSwitchHelp_tw.html
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Setting.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/SettingViewController.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Settings.bundle
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Steeringwheel.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/SupportViewController.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/TroubleShootViewController.nib
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/WWAN5.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ball.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/boardBack.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/boardBack@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/button_click.caf
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/de.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/dotHighlighted.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/dotNormal.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/embedded.mobileprovision
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/en.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/es.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/fi.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/flipSideBack.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/fr.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_1.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_1@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_2.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_2@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_3.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_3@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_4.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_4@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_5.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_5@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_6.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_6@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_7.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_7@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_next_button.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_next_button@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_next_highlighted_button.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_next_highlighted_button@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_page_dot.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_page_dot@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_page_selected_dot.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_page_selected_dot@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/hu.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon0.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon0@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon1.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon1@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon2.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon2@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon3.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon3@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon4.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon4@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/id.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/infoButton.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/it.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ja.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/keyboard.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/keyboard@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/keyboard_hidden.caf
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/keyboard_shown.caf
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ko.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/mode_selection_view_shown.caf
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/optionsTabBarIcon.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/optionsTabBarIcon@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/pl.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/pt.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/quick_switch_close.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/quick_switch_close@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/quickswitch.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ro.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ru.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/scroll_back.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_arrow.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_arrow@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_flip.caf
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_grey_button.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_grey_button@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/shift.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/shift@2x.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/stop-32.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/supportBack.png
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/th.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/tock.caf
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/tr.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/trouble_cn.html
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/trouble_en.html
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/trouble_tw.html
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/zh-Hans.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/zh-Hant.lproj/Localizable.strings
+t2
+s0
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/button_click.caf
+c000000004C38D66A00000000000033C2
+t1278793322
+s13250
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/de.lproj/Localizable.strings
+c000000004F2E3D630000000000000AD0
+t1328430435
+s2768
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/dotHighlighted.png
+c000000004958D2140000000000001202
+t1230557716
+s4610
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/dotNormal.png
+c000000004958D10200000000000012D3
+t1230557442
+s4819
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/en.lproj/Localizable.strings
+c000000004F2E374E0000000000000ADF
+t1328428878
+s2783
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/es.lproj/Localizable.strings
+c000000004F2E3D630000000000000B39
+t1328430435
+s2873
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/fi.lproj/Localizable.strings
+c000000004F2E3D630000000000000AF4
+t1328430435
+s2804
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/flipSideBack.png
+c000000004E9FC3F0000000000000184A
+t1319093232
+s6218
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/fr.lproj/Localizable.strings
+c000000004F2E3D630000000000000B0B
+t1328430435
+s2827
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_1.png
+c000000004EA8B5130000000000005F4E
+t1319679251
+s24398
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_1@2x.png
+c000000004EA8B4FF000000000000F7FB
+t1319679231
+s63483
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_2.png
+c000000004EA8B6A5000000000000508C
+t1319679653
+s20620
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_2@2x.png
+c000000004EA8B68B000000000000CF38
+t1319679627
+s53048
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_3.png
+c000000004EA8BD94000000000000921F
+t1319681428
+s37407
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_3@2x.png
+c000000004EA8BD7F000000000001D348
+t1319681407
+s119624
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_4.png
+c000000004EA8BCBB0000000000007198
+t1319681211
+s29080
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_4@2x.png
+c000000004EA8BCA10000000000012444
+t1319681185
+s74820
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_5.png
+c000000004EA8B11800000000000050DB
+t1319678232
+s20699
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_5@2x.png
+c000000004EA8B104000000000000E77D
+t1319678212
+s59261
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_6.png
+c000000004EA8B0660000000000005D10
+t1319678054
+s23824
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_6@2x.png
+c000000004EA8B058000000000000FFE3
+t1319678040
+s65507
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_7.png
+c000000004EA8ADFE000000000000ACF8
+t1319677438
+s44280
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_7@2x.png
+c000000004EA8ADEE00000000000231EE
+t1319677422
+s143854
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_next_button.png
+c000000004C38D66A0000000000000407
+t1278793322
+s1031
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_next_button@2x.png
+c000000004C38D66C0000000000000716
+t1278793324
+s1814
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_next_highlighted_button.png
+c000000004C38D66A00000000000002B4
+t1278793322
+s692
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_next_highlighted_button@2x.png
+c000000004C38D66C00000000000004C3
+t1278793324
+s1219
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_page_dot.png
+c000000004C38D66A00000000000000D4
+t1278793322
+s212
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_page_dot@2x.png
+c000000004C38D66C0000000000000127
+t1278793324
+s295
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_page_selected_dot.png
+c000000004C38D66A00000000000000D2
+t1278793322
+s210
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/help_page_selected_dot@2x.png
+c000000004C38D66C0000000000000171
+t1278793324
+s369
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/hu.lproj/Localizable.strings
+c000000004F2E3D7F0000000000000B48
+t1328430463
+s2888
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon.png
+c000000004E9D24800000000000001E24
+t1318921344
+s7716
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon0.png
+c000000004F4F775C0000000000001EE1
+t1330607964
+s7905
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon0@2x.png
+c000000004F4F77490000000000004BF4
+t1330607945
+s19444
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon1.png
+c000000004F487AB50000000000002FE7
+t1330150069
+s12263
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon1@2x.png
+c000000004F487AA70000000000009ADC
+t1330150055
+s39644
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon2.png
+c000000004F487A830000000000002E27
+t1330150019
+s11815
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon2@2x.png
+c000000004F487A7400000000000097AB
+t1330150004
+s38827
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon3.png
+c000000004F487A3F0000000000002B28
+t1330149951
+s11048
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon3@2x.png
+c000000004F487A280000000000008FE2
+t1330149928
+s36834
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon4.png
+c000000004F4881EC00000000000026D5
+t1330151916
+s9941
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/icon4@2x.png
+c000000004F4881DA0000000000007E72
+t1330151898
+s32370
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/id.lproj/Localizable.strings
+c000000004F2E3B9C0000000000000B0B
+t1328429980
+s2827
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/infoButton.png
+c000000004BEB196A0000000000000362
+t1273698666
+s866
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/it.lproj/Localizable.strings
+c000000004F2E3D630000000000000B1A
+t1328430435
+s2842
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/ja.lproj/Localizable.strings
+c000000004F2E47DE0000000000000B70
+t1328433118
+s2928
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/keyboard.png
+c000000004F55C0060000000000005A73
+t1331019782
+s23155
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/keyboard@2x.png
+c000000004F55BFF9000000000000D99C
+t1331019769
+s55708
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/keyboard_hidden.caf
+c000000004C38D6640000000000005D40
+t1278793316
+s23872
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/keyboard_shown.caf
+c000000004C38D664000000000000A3C0
+t1278793316
+s41920
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/ko.lproj/Localizable.strings
+c000000004F2E3D630000000000000AF1
+t1328430435
+s2801
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/mode_selection_view_shown.caf
+c000000004C36CAF0000000000000B0D0
+t1278659312
+s45264
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/optionsTabBarIcon.png
+c000000004E9E710D00000000000008CE
+t1319006477
+s2254
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/optionsTabBarIcon@2x.png
+c000000004E9E70F90000000000000C2A
+t1319006457
+s3114
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/pl.lproj/Localizable.strings
+c000000004F2E3B9C0000000000000B12
+t1328429980
+s2834
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/pt.lproj/Localizable.strings
+c000000004F2E3B9C0000000000000B02
+t1328429980
+s2818
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/quick_switch_close.png
+c000000004F313229000000000000069A
+t1328624169
+s1690
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/quick_switch_close@2x.png
+c000000004F31322900000000000011F3
+t1328624169
+s4595
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/quickswitch.png
+c000000004F312DBF000000000000230E
+t1328623039
+s8974
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/ro.lproj/Localizable.strings
+c000000004F2E3B9C0000000000000AF8
+t1328429980
+s2808
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/ru.lproj/Localizable.strings
+c000000004F2E3D630000000000000BD0
+t1328430435
+s3024
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/scroll_back.png
+c000000004E9FC4680000000000003A2E
+t1319093352
+s14894
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/settings_arrow.png
+c000000004C38D66C00000000000000A3
+t1278793324
+s163
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/settings_arrow@2x.png
+c000000004C38D66E0000000000000102
+t1278793326
+s258
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/settings_flip.caf
+c000000004C38D6660000000000011B4C
+t1278793318
+s72524
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/settings_grey_button.png
+c000000004F2A99900000000000000514
+t1328191888
+s1300
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/settings_grey_button@2x.png
+c000000004EA23CCA00000000000002F3
+t1319255242
+s755
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/shift.png
+c000000004F55D85F0000000000001BF9
+t1331026015
+s7161
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/shift@2x.png
+c000000004F55D8980000000000003C3D
+t1331026072
+s15421
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/stop-32.png
+c0000000048B655320000000000000590
+t1219908914
+s1424
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/supportBack.png
+c000000004E9FC77B0000000000002A88
+t1319094139
+s10888
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/th.lproj/Localizable.strings
+c000000004F2E3D630000000000000D58
+t1328430435
+s3416
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/tock.caf
+c000000004AB20DC40000000000001180
+t1253182916
+s4480
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/tr.lproj/Localizable.strings
+c000000004F2E3D630000000000000AF6
+t1328430435
+s2806
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/trouble_cn.html
+c000000004EA7F9B60000000000000EF3
+t1319631286
+s3827
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/trouble_en.html
+c000000004EA7A9690000000000000F8A
+t1319610729
+s3978
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/trouble_tw.html
+c000000004EA800E0000000000000161A
+t1319633120
+s5658
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/zh-Hans.lproj/Localizable.strings
+c000000004F2E47D80000000000000A22
+t1328433112
+s2594
+
+N/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/zh-Hant.lproj/Localizable.strings
+c000000004F2E47DB0000000000000A08
+t1328433115
+s2568
+
+N/Users/huyongchang/Library/MobileDevice/Provisioning Profiles/BF407068-EFF4-4263-B1B0-1C39B4F84241.mobileprovision
+c000000004EAA459D0000000000001CDE
+t1319781789
+s7390
+
+NInfo.plist
+c000000004F2E76B70000000000000503
+t1328445111
+s1283
+
+CCodeSign "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/AppListViewController.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/BoardViewController.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/ChooseWhichVersion.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/Classes/../MainWindow.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/DemoViewController.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/FlipsideView.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HandleView.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HandleView2.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HandleView3.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/HorizMouseView.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/KeyboardViewController.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MainView.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MouseView.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/MyView.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/QuickSwitchHelpView.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/SettingViewController.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/SupportViewController.xib"
+r0
+
+CCompileXIB "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/TroubleShootViewController.xib"
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Airport.png" Airport.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/AppList.png" AppList.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/AppList@2x.png" AppList@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/CarBrake.png" CarBrake.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/DataRate.png" DataRate.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/DataRate@2x.png" DataRate@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Default.png" Default.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Default@2x.png" Default@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/HandleController.png" HandleController.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Icon.png" Icon.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Icon@2x.png" Icon@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/MouseController.png" MouseController.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/NaviBar.png" NaviBar.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Property.png" Property.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Property@2x.png" Property@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Setting.png" Setting.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Steeringwheel.png" Steeringwheel.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/WWAN5.png" WWAN5.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ball.png" ball.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/boardBack.png" boardBack.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/boardBack@2x.png" boardBack@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/dotHighlighted.png" dotHighlighted.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/dotNormal.png" dotNormal.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/flipSideBack.png" flipSideBack.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_1.png" help_1.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_1@2x.png" help_1@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_2.png" help_2.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_2@2x.png" help_2@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_3.png" help_3.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_3@2x.png" help_3@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_4.png" help_4.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_4@2x.png" help_4@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_5.png" help_5.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_5@2x.png" help_5@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_6.png" help_6.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_6@2x.png" help_6@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_7.png" help_7.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_7@2x.png" help_7@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_next_button.png" help_next_button.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_next_button@2x.png" help_next_button@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_next_highlighted_button.png" help_next_highlighted_button.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_next_highlighted_button@2x.png" help_next_highlighted_button@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_page_dot.png" help_page_dot.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_page_dot@2x.png" help_page_dot@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_page_selected_dot.png" help_page_selected_dot.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/help_page_selected_dot@2x.png" help_page_selected_dot@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon.png" icon.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon0.png" icon0.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon0@2x.png" icon0@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon1.png" icon1.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon1@2x.png" icon1@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon2.png" icon2.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon2@2x.png" icon2@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon3.png" icon3.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon3@2x.png" icon3@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon4.png" icon4.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/icon4@2x.png" icon4@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/infoButton.png" infoButton.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/keyboard.png" keyboard.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/keyboard@2x.png" keyboard@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/optionsTabBarIcon.png" optionsTabBarIcon.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/optionsTabBarIcon@2x.png" optionsTabBarIcon@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/quick_switch_close.png" quick_switch_close.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/quick_switch_close@2x.png" quick_switch_close@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/quickswitch.png" quickswitch.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/scroll_back.png" scroll_back.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_arrow.png" settings_arrow.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_arrow@2x.png" settings_arrow@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_grey_button.png" settings_grey_button.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/settings_grey_button@2x.png" settings_grey_button@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/shift.png" shift.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/shift@2x.png" shift@2x.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/stop-32.png" stop-32.png
+r0
+
+CCopyPNGFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/supportBack.png" supportBack.png
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/de.lproj/Localizable.strings" de.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/en.lproj/Localizable.strings" en.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/es.lproj/Localizable.strings" es.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/fi.lproj/Localizable.strings" fi.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/fr.lproj/Localizable.strings" fr.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/hu.lproj/Localizable.strings" hu.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/id.lproj/Localizable.strings" id.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/it.lproj/Localizable.strings" it.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ja.lproj/Localizable.strings" ja.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ko.lproj/Localizable.strings" ko.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/pl.lproj/Localizable.strings" pl.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/pt.lproj/Localizable.strings" pt.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ro.lproj/Localizable.strings" ro.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/ru.lproj/Localizable.strings" ru.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/th.lproj/Localizable.strings" th.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/tr.lproj/Localizable.strings" tr.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/zh-Hans.lproj/Localizable.strings" zh-Hans.lproj/Localizable.strings
+r0
+
+CCopyStringsFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/zh-Hant.lproj/Localizable.strings" zh-Hant.lproj/Localizable.strings
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/MouseDown.aif MouseDown.aif
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/MouseUp.aif MouseUp.aif
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/QuickSwitchHelp_cn.html QuickSwitchHelp_cn.html
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/QuickSwitchHelp_en.html QuickSwitchHelp_en.html
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/QuickSwitchHelp_tw.html QuickSwitchHelp_tw.html
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/Settings.bundle Settings.bundle
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/button_click.caf button_click.caf
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/keyboard_hidden.caf keyboard_hidden.caf
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/keyboard_shown.caf keyboard_shown.caf
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/mode_selection_view_shown.caf mode_selection_view_shown.caf
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/settings_flip.caf settings_flip.caf
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/tock.caf tock.caf
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/trouble_cn.html trouble_cn.html
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/trouble_en.html trouble_en.html
+r0
+
+CCpResource build/Debug-iphoneos/NFSJoystick.app/trouble_tw.html trouble_tw.html
+r0
+
+CProcessInfoPlistFile "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/Info.plist" Info.plist
+r0
+
+CProcessProductPackaging "/Users/huyongchang/Library/MobileDevice/Provisioning Profiles/BF407068-EFF4-4263-B1B0-1C39B4F84241.mobileprovision" "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app/embedded.mobileprovision"
+r0
+
+CTouch "/Users/huyongchang/Desktop/game folder/NeedForSpeedJoystickFreeV1.5/build/Debug-iphoneos/NFSJoystick.app"
+r0
+

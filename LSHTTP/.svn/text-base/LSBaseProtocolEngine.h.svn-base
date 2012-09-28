@@ -1,0 +1,101 @@
+//
+//  LSBaseProtocolEngine.h
+//  Test1
+//
+//  Created by zhiwei ma on 12-3-15.
+//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+
+#import <Foundation/Foundation.h>
+#import "LSHTTPKit.h"
+
+//NSError需要用到
+static NSString* LSErrorDomain = @"com.locoso.raiyi";
+static NSString* LSErrorString_ServerData = @"服务器数据错误";
+static NSString* LSErrorString_NetworkFailed = @"连接服务器失败";
+static const NSInteger LSErrorCode_ServerData = -999; 
+
+#define LSError_ServerData serverDataError() 
+NSError* serverDataError();
+
+
+//
+//LSBaseProtocolEngineDelegate
+//
+@class LSBaseProtocolEngine;
+@protocol LSBaseProtocolEngineDelegate
+@optional
+- (void)didProtocolEngineFinished:(LSBaseProtocolEngine*)aEngine newData:(id)aData;
+- (void)didProtocolEngineFailed:(LSBaseProtocolEngine *)aEngine error:(NSError*)aError;
+@end
+
+//
+//LSProtocolErrorParser
+//网络交互成功，服务器返回数据内容为操作的错误数据，比如请求了不存在的数据
+//
+@protocol  LSProtocolErrorParser
+- (NSError*)parserError:(NSString*)aRspString;
+@end
+
+//
+//LSBaseProtocolEngine
+//服务器协议引擎基类，一个引擎对应一个服务器接口
+//
+typedef NSObject LSBaseResponseData;
+typedef enum
+{
+    LSProtocolEngineOp_Pending,
+    LSProtocolEngineOp_Refresh,
+    LSProtocolEngineOp_More,
+    LSProtocolEngineOp_Before
+}LSProtocolEngineOp;
+
+//typedef enum
+//{
+//    LSContentOperation_Add,
+//    LSContentOperation_Delete,
+//    LSContentOperation_Update,
+//    LSContentOperation_Query
+//}LSContentOperationType;
+
+typedef enum 
+{
+    LSProtocolEngineState_Pending,
+    LSProtocolEngineState_Loading,
+    LSProtocolEngineState_Finished,
+    LSProtocolEngineState_Failed,
+}LSNetworkModelState;
+
+@interface LSBaseProtocolEngine : NSObject<ASIHTTPRequestDelegate>
+{
+    id<LSBaseProtocolEngineDelegate> _delegate;
+    ASIHTTPRequest* _curRequest;
+    LSProtocolEngineOp _op;
+    LSNetworkModelState _state;
+    id<LSProtocolErrorParser> _errorParser;
+    BOOL _forceRefresh;
+    BOOL _keepLastRequest;
+}
++ (void)setDefaultErrorParser:(id<LSProtocolErrorParser>)aErrorParser;
+@property (nonatomic, assign) id<LSBaseProtocolEngineDelegate> delegate;
+@property (nonatomic, retain) ASIHTTPRequest* curRequest;
+@property (nonatomic) LSProtocolEngineOp op;
+@property (nonatomic, assign) id<LSProtocolErrorParser> errorParser;
+@property (nonatomic) BOOL forceRefresh;
+@property (nonatomic) BOOL keepLastRequest;
+
+- (void)sendRequest;
+- (void)cancelRequest;
+- (void)reset;//子类可重载，恢复成该实例第一次发请求前的状态
+- (BOOL)isDone;//finished or failed
+- (BOOL)isFinished;
+- (BOOL)isFailed;
+- (BOOL)isLoading;
+
+- (ASIHTTPRequest*)request;//noop
+- (LSBaseResponseData*)parseResponseData:(NSString*)aResponseString;//noop
+- (BOOL)handleResponseData:(LSBaseResponseData*)aNewData;//if aNewData is nil,return NO,else return YES. if return NO,treat it as request failed.
+@end
+
+
+

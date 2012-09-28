@@ -1,0 +1,223 @@
+//
+//  LSData.m
+//  Locoso
+//
+//  Created by zhiwei ma on 12-3-17.
+//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+
+#import "LSData.h"
+
+#pragma mark LSDataCategory
+@implementation LSDataCategory
+@synthesize ID = _ID;
+@synthesize name = _name;
+@synthesize spell = _spell;
+@synthesize shortname = _shortname;
+@synthesize ico = _ico;
+@synthesize parentnames = _parentnames;
+@synthesize parentids = _parentids;
+@synthesize parented = _parented;
+@synthesize cityname = _cityname;
+@synthesize cityid = _cityid;
+@synthesize ishot = _ishot;
+@synthesize arrchildid = _arrchildid;
+@synthesize childnum = _childnum;
+@synthesize depth = _depth;
+@synthesize childid = _childid;
+
+
+- (void)dealloc
+{
+    self.name = nil;
+    self.spell = nil;
+    self.shortname = nil;
+    self.ico = nil;
+    self.parentnames = nil;
+    self.parentids = nil;
+    self.cityname = nil;
+    self.arrchildid = nil;
+    self.childid = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataCompany
+@implementation LSDataCompany
+@synthesize companyID = _companyID;
+@synthesize companyName = _companyName;
+@synthesize logo = _logo;
+@synthesize address = _address;
+@synthesize state = _state;
+
+- (void)dealloc
+{
+    self.companyName = nil;
+    self.logo = nil;
+    self.address = nil;
+
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataCompanyDetail
+@implementation LSDataCompanyDetail
+@synthesize contactphone = _contactphone;
+@synthesize mapx = _mapx;
+@synthesize mapy = _mapy;
+- (void)dealloc
+{
+    self.mapx = nil;
+    self.mapy = nil;
+    self.contactphone = nil;
+    [super dealloc];
+}
+
+@end
+
+#pragma mark LSDataProduct
+@implementation LSDataProduct
+@synthesize producid = _producid;
+@synthesize productname = _productname;
+@synthesize content = _content;
+@synthesize imageUrl = _imageUrl;
+- (void)dealloc
+{
+    self.imageUrl = nil;
+    self.productname = nil;
+    self.content = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataCount
+@implementation LSDataCount
+@synthesize  photocount,mesgcount,viewCount,procount,newscount;
+- (void)dealloc
+{
+    
+    self.photocount = nil;
+    self.mesgcount = nil;
+    self.viewCount = nil;
+    self.procount = nil;
+    self.newscount = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataNews
+@implementation LSDataNews
+@synthesize articleid = _articleid;
+@synthesize title = _title;
+@synthesize content = _content;
+- (void)dealloc
+{
+    self.content = nil;
+    self.title = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataMessage
+@implementation LSDataMessage
+@synthesize messageID = _messageID;
+@synthesize senderuaid = _senderuaid;
+@synthesize senderuaname = _senderuaname;
+@synthesize content = _conent;
+@synthesize createtime = _createtime;
+@synthesize replyContent = _replyContent;
+@synthesize state = _state;
+- (void)dealloc
+{
+    self.senderuaname = nil;
+    self.content = nil;
+    self.createtime = nil;
+    self.replyContent = nil;
+
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataPhoto
+@implementation LSDataPhoto
+@synthesize mediaid = _mediaid;
+@synthesize medianame = _medianame;
+@synthesize filepath = _filepath;
+
+- (void)dealloc
+{
+    self.medianame = nil;
+    self.filepath = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataCity
+@implementation LSDataCity
+@synthesize ID = _ID;
+@synthesize shortname = _shortname;
+@synthesize childnum = _childnum;
+- (void)dealloc
+{
+    self.shortname = nil;
+    [super dealloc];
+}
+@end
+#pragma mark LSDataEnterprise
+@implementation LSDataEnterprise
+
+@synthesize companyname = _companyname;
+@synthesize telephone = _telephone;
+@synthesize address = _address;
+@synthesize contactphone = _contactphone;
+@synthesize mobilephone = _mobilephone;
+@synthesize email = _email;
+@synthesize website = _website;
+@synthesize contactpeople = _contactpeople;
+@synthesize city = _city;
+@synthesize catename = _catename;
+@synthesize logo = _logo;    
+- (void)dealloc
+{
+    self.companyname = nil;
+    self.telephone = nil;
+    self.address = nil;
+    self.contactphone = nil;
+    self.mobilephone = nil;
+    self.email = nil;
+    self.website = nil;
+    self.contactpeople = nil;
+    self.city = nil;
+    self.catename = nil;
+    [super dealloc];
+}
+@end
+
+//
+//LSDataKeyword
+//
+@implementation LSDataKeyword 
+@synthesize name = _name;
+@synthesize count = _count;
+
+- (void)dealloc
+{
+    self.name = nil;
+    [super dealloc];
+}
+@end
+
+//
+//LSDataSession
+//
+@implementation LSDataSession 
+@synthesize uaid = _uaid;
+@synthesize session = _session;
+
+- (void)dealloc
+{
+    self.uaid = nil;
+    self.session = nil;
+    [super dealloc];
+}
+@end

@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  NFSJoystick
+
+  Created by  on 11-10-19.
+  Copyright (c) 2011年 __MyCompanyName__. All rights reserved.
+*/
+"UnableToConnect"="接続することができません";
+"troubleshooting"="Could not find a server to connect to,would you like help troubleshooting?";
+"troubleshooting alarm"="トラブルシューティング";
+"Shutdown"="シャットダウン";
+"Boot"="ブート";
+"HelpTitle1"="1. インストール";
+"HelpBody1"="The first step is to install the server application on your computer so that the app can connect to it. ";
+"HelpTitle2"="2. サーバーのセットアップ";
+"HelpBody2"="The Server tab contains all the settings related to networking the application. You can see the detail in the help page";
+"HelpTitle3"="3. 接続";
+"HelpBody3"="After you install the server on your computer, please run the app on your device. It should automatically connect when it starts up. However, if it does not connect, there is most likely something on your network or computer that is preventing it from connecting. ";
+"HelpTitle4"="4. トラブルシューティング";
+"HelpBody4"="If you are unable to connect, please refer to the troubleshooting steps below and the forum for help. ";
+"HelpTitle5"="5. リモートマウス";
+"HelpBody5"="The first option for controlling your computer is to use this touch pad. This works the same as the touch pad on your laptop.";
+"HelpTitle6"="6. キーボード";
+"HelpBody6"="The keyboard is hidden by default. Just shake the device in an leftward direction to bring up the keyboard. ";
+"HelpTitle7"="7. ゲームコントロール";
+"HelpBody7"="Now you can control the game,just use the accelerate and brake button to run or stop,turn your iPhone/iPod/iPad left or right to control the car left or right.";
+"Connected"="連続している";
+"Searching"="検索しています...";
+"Done"="完了";
+"Next"="次の";
+"Auto search for services"="Auto search for services or";
+"or enter your computer's IP & Port:"="enter your computer's IP&Port:";
+"Server IP"="サーバのIP";
+"Port"="ポート";
+"Status"="ステータス";
+"Options"="オプション";
+"Sound"="サウンド";
+"Accelerometer"="Accelerometer";
+"Support"="Support";
+"View Help"="ヘルプを表示";
+"Demo video"="デモビデオ";
+"Other apps by us"="microkernelのアプリ";
+"Local Language"="Local Language";
+"Volunteer Translator"="翻訳ボランティア";
+"Review"="Review";
+"Rate/Review it"="プログラムの評価";
+"Tell Friends"= "友人に教える";
+"EmailTitle1"="便利なアプリを紹介します";
+"EmailBody1"="http://itunes.apple.com/app/need-for-speed-joystick/id375490342?mt=8";
+"EmailTitle2"="このプログラムを他の言語に翻訳します";
+"EmailBody2"="(どの国の言語に訳していただけますか？ 本当にありがとうございます！)";
+"Full Version"="フルバージョン";
+"Full Version Features 1"="-Tech support & Free updates";
+"Full Version Features 2"="-No Ads";
+"Full Version Features 3"="-Game controller";
+"News"="より多く";
+"Like This App?"="このアプリ、気に入りましたか？";
+"Later" = "Later";
+"Connected success"="接続成功";
+"Help"="ヘルプ";
+"Unlock"="ロックを解除する";
+"Buy Full version"="フルバージョンを購入";
+"Free Unlock"="フリーロック";
+"View tutorial and video"="チュートリアルやビデオを見る";
+"Unlock More Features"="そうだとすれば、App Storeでの5つ星でこのゲームをしてください、より多くの機能を解除する";
+"Free Update Coming"="もしそうなら私たちは無料のアップデートが来て維持することができますので、App Storeでの5つ星でこのゲームをしてください。";

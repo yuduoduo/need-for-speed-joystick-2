@@ -1,0 +1,377 @@
+//
+//  LSData.m
+//  Locoso
+//
+//  Created by zhiwei ma on 12-3-17.
+//  Copyright (c) 2012年 __MyCompanyName__. All rights reserved.
+//
+
+#import "LSData.h"
+#import "LSDefine.h"
+#import "SBJson.h"
+#import "LSParseDataUtils.h"
+
+#pragma mark LSDataCategory
+@implementation LSDataCategory
+@synthesize ID = _ID;
+@synthesize name = _name;
+@synthesize spell = _spell;
+@synthesize shortname = _shortname;
+@synthesize ico = _ico;
+@synthesize parentnames = _parentnames;
+@synthesize parentids = _parentids;
+@synthesize parentid = _parentid;
+@synthesize cityname = _cityname;
+@synthesize cityid = _cityid;
+@synthesize ishot = _ishot;
+@synthesize arrchildid = _arrchildid;
+@synthesize childnum = _childnum;
+@synthesize depth = _depth;
+@synthesize childid = _childid;
+
+
+- (void)dealloc
+{
+    self.name = nil;
+    self.spell = nil;
+    self.shortname = nil;
+    self.ico = nil;
+    self.parentnames = nil;
+    self.parentids = nil;
+    self.cityname = nil;
+    self.arrchildid = nil;
+    self.childid = nil;
+    [super dealloc];
+}
+
++ (LSDataCategory*)allWideCategory
+{
+    LSDataCategory* category = [[[LSDataCategory alloc] init] autorelease];
+    category.ID = LSAllWideCategoryID;
+    category.shortname = LSString_allindustry;
+    category.name = LSString_allindustry;
+    return category;
+}
+
+- (BOOL)isTopCategory
+{
+    return _ID == LSAllWideCategoryID;
+}
+
+- (NSString*)fullCategory
+{
+    return _shortname;
+}
+@end
+
+#pragma mark LSDataCompany
+@implementation LSDataCompany
+@synthesize companyID = _companyID;
+@synthesize companyName = _companyName;
+@synthesize logo = _logo;
+@synthesize address = _address;
+@synthesize area = _area;
+@synthesize city = _city;
+@synthesize province = _province;
+@synthesize state = _state;
+
+- (void)dealloc
+{
+    self.companyName = nil;
+    self.logo = nil;
+    self.address = nil;
+    self.area = nil;
+    self.city = nil;
+    self.province = nil;
+
+    [super dealloc];
+}
+
+- (NSString*)fullAddress
+{
+    NSMutableString* fullString =  [[[NSMutableString alloc] initWithCapacity:200] autorelease];
+    [fullString setString:_address];
+
+    NSRange range = [fullString rangeOfString:self.city];
+    if (range.length == 0) 
+    {
+        [fullString insertString:_city atIndex:0];
+    }
+    return fullString;
+}
+
+- (NSString*)jsonString
+{
+    NSMutableDictionary* dict = [[[NSMutableDictionary alloc] initWithCapacity:10] autorelease];
+    [dict setObject:[NSNumber numberWithInt:_companyID] forKey:LSJSONKEY_companyid];
+    if ([_companyName length] > 0)
+    {
+        [dict setObject:_companyName forKey:LSJSONKEY_companyname];
+    }
+    if ([_logo length] > 0) 
+    {
+        [dict setObject:_logo forKey:LSJSONKEY_logo];
+    }
+    if ([_address length] > 0)
+    {
+        [dict setObject:_address forKey:LSJSONKEY_address];
+    }
+    if ([_area length] > 0)
+    {
+        [dict setObject:_area forKey:LSJSONKEY_area];
+    }
+    if ([_city length] > 0)
+    {
+        [dict setObject:_city forKey:LSJSONKEY_city];
+    }
+    if ([_province length] > 0)
+    {
+        [dict setObject:_province forKey:LSJSONKEY_procount];
+    }
+    [dict setObject:[NSNumber numberWithInt:_state] forKey:LSJSONKEY_state];
+    
+    SBJsonWriter* write = [[[SBJsonWriter alloc] init] autorelease];
+    NSString* json = [write stringWithObject:dict];
+    return json;
+}
+@end
+
+#pragma mark LSDataCompanyDetail
+@implementation LSDataCompanyDetail
+@synthesize contactphone = _contactphone;
+@synthesize mapx = _mapx;
+@synthesize mapy = _mapy;
+@synthesize info = _info;
+@synthesize product = _product;
+- (void)dealloc
+{
+    self.mapx = nil;
+    self.mapy = nil;
+    self.contactphone = nil;
+    self.info = nil;
+    self.product = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataProduct
+@implementation LSDataProduct
+@synthesize producid = _producid;
+@synthesize productname = _productname;
+@synthesize summary = _summary;
+//@synthesize content = _content;
+@synthesize imageUrl = _imageUrl;
+- (void)dealloc
+{
+    self.imageUrl = nil;
+    self.productname = nil;
+    self.summary = nil;
+//    self.content = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataCount
+@implementation LSDataCount
+@synthesize  photocount,mesgcount,viewCount,procount,newscount;
+- (void)dealloc
+{
+    
+    self.photocount = nil;
+    self.mesgcount = nil;
+    self.viewCount = nil;
+    self.procount = nil;
+    self.newscount = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataNews
+@implementation LSDataNews
+@synthesize articleid = _articleid;
+@synthesize title = _title;
+@synthesize content = _content;
+- (void)dealloc
+{
+    self.content = nil;
+    self.title = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataMessage
+@implementation LSDataMessage
+@synthesize messageID = _messageID;
+@synthesize senderuaid = _senderuaid;
+@synthesize senderuaname = _senderuaname;
+@synthesize content = _conent;
+@synthesize createtime = _createtime;
+@synthesize replyContent = _replyContent;
+@synthesize state = _state;
+- (void)dealloc
+{
+    self.senderuaname = nil;
+    self.content = nil;
+    self.createtime = nil;
+    self.replyContent = nil;
+
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataPhoto
+@implementation LSDataPhoto
+@synthesize mediaid = _mediaid;
+@synthesize medianame = _medianame;
+@synthesize filepath = _filepath;
+
+- (void)dealloc
+{
+    self.medianame = nil;
+    self.filepath = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataCity
+@implementation LSDataCity
+@synthesize ID = _ID;
+@synthesize shortname = _shortname;
+@synthesize childnum = _childnum;
+@synthesize depth = _depth;
+@synthesize parentid = _parentid;
+@synthesize parentnames = _parentnames;
+
+- (void)dealloc
+{
+    self.shortname = nil;
+    self.parentnames = nil;
+    [super dealloc];
+}
+
++ (LSDataCity*)countryWideCity
+{
+    LSDataCity* city = [[[LSDataCity alloc] init] autorelease];
+    city.ID = LSCountryWideCityID;
+    city.shortname = LSString_alldistrict;
+    return city;
+}
+
+- (NSString*)fullArea
+{
+    NSString* string = _parentnames;
+    NSRange range = [string rangeOfString:@" "];
+    if (range.length > 0)
+    {
+        string = [string substringFromIndex:range.location + 1];
+        string = [string stringByReplacingOccurrencesOfString:@" " withString:@""];
+    }
+    return string;
+}
+
+//最佳是用depth字段进行判断
+- (BOOL)isTopCity
+{
+    return  _ID == LSCountryWideCityID;
+}
+@end
+
+#pragma mark LSDataEnterprise
+@implementation LSDataEnterprise
+
+@synthesize companyname = _companyname;
+@synthesize telephone = _telephone;
+@synthesize address = _address;
+@synthesize contactphone = _contactphone;
+@synthesize mobilephone = _mobilephone;
+@synthesize email = _email;
+@synthesize website = _website;
+@synthesize contactpeople = _contactpeople;
+@synthesize city = _city;
+@synthesize catename = _catename;
+@synthesize logo = _logo;   
+@synthesize state = _state;
+- (void)dealloc
+{
+    self.companyname = nil;
+    self.telephone = nil;
+    self.address = nil;
+    self.contactphone = nil;
+    self.mobilephone = nil;
+    self.email = nil;
+    self.website = nil;
+    self.contactpeople = nil;
+    self.city = nil;
+    self.catename = nil;
+    [super dealloc];
+}
+@end
+
+//
+//LSDataKeyword
+//
+#pragma mark LSDataKeyword
+@implementation LSDataKeyword 
+@synthesize name = _name;
+@synthesize count = _count;
+
+- (void)dealloc
+{
+    self.name = nil;
+    [super dealloc];
+}
+@end
+
+//
+//LSDataSession
+//
+#pragma mark LSDataSession
+@implementation LSDataSession 
+@synthesize uaid = _uaid;
+@synthesize session = _session;
+
+- (void)dealloc
+{
+    self.uaid = nil;
+    self.session = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark LSDataAD
+@implementation LSDataAD
+@synthesize imageURL = _imageURL;
+@synthesize url = _url;
+
+- (void)dealloc
+{
+    self.imageURL = nil;
+    self.url = nil;
+    [super dealloc];
+}
+@end
+
+#pragma mark NSString (LSDataCompany)
+@implementation NSString (LSDataCompany)
+- (LSDataCompany*)company
+{
+    LSDataCompany* company = [[[LSDataCompany alloc] init] autorelease];
+    
+    id jsonValue = [self JSONValue];
+    if (nil == jsonValue)
+    {
+        return nil;
+    }
+    NSDictionary* jsonDict = (NSDictionary*)jsonValue;
+    company.companyID = [[jsonDict valueForKey:LSJSONKEY_companyid] intValue];
+    company.companyName = [jsonDict valueForKey:LSJSONKEY_companyname];
+    company.logo = [jsonDict valueForKey:LSJSONKEY_logo];
+    company.address = [jsonDict valueForKey:LSJSONKEY_address];
+    company.area = [jsonDict valueForKey:LSJSONKEY_area];
+    company.city = [jsonDict valueForKey:LSJSONKEY_city];
+    company.province = [jsonDict valueForKey:LSJSONKEY_province];
+    company.state = [[jsonDict valueForKey:LSJSONKEY_state] intValue];
+    return company;
+}
+@end
+

@@ -1,0 +1,66 @@
+/* 
+  Localizable.strings
+  NFSJoystick
+
+  Created by  on 11-10-19.
+  Copyright (c) 2011年 __MyCompanyName__. All rights reserved.
+*/
+"UnableToConnect"="Не удается подключиться";
+"troubleshooting"="Could not find a server to connect to,would you like help troubleshooting?";
+"troubleshooting alarm"="Устранение неполадок";
+"Shutdown"="выключение";
+"Boot"="Загрузка";
+"HelpTitle1"="1. установка";
+"HelpBody1"="The first step is to install the server application on your computer so that the app can connect to it. ";
+"HelpTitle2"="2. Настройка сервера";
+"HelpBody2"="The Server tab contains all the settings related to networking the application. You can see the detail in the help page";
+"HelpTitle3"="3. связи";
+"HelpBody3"="After you install the server on your computer, please run the app on your device. It should automatically connect when it starts up. However, if it does not connect, there is most likely something on your network or computer that is preventing it from connecting. ";
+"HelpTitle4"="4. поиск неисправностей";
+"HelpBody4"="If you are unable to connect, please refer to the troubleshooting steps below and the forum for help. ";
+"HelpTitle5"="5. Удаленная мышь";
+"HelpBody5"="The first option for controlling your computer is to use this touch pad. This works the same as the touch pad on your laptop.";
+"HelpTitle6"="6. клавиатура";
+"HelpBody6"="The keyboard is hidden by default. Just shake the device in an leftward direction to bring up the keyboard. ";
+"HelpTitle7"="7. Game Control";
+"HelpBody7"="Now you can control the game,just use the accelerate and brake button to run or stop,turn your iPhone/iPod/iPad left or right to control the car left or right.";
+"Connected"="Connected";
+"Searching"="Идет поиск ...";
+"Done"="Done";
+"Next"="Next";
+"Auto search for services"="Auto search for services or";
+"or enter your computer's IP & Port:"="enter your computer's IP&Port:";
+"Server IP"="IP-адрес сервера";
+"Port"="Порт";
+"Status"="Статус";
+"Options"="Параметры";
+"Sound"="Звук";
+"Accelerometer"="Accelerometer";
+"Support"="Support";
+"View Help"="View Помощь";
+"Demo video"="Демо-видео";
+"Other apps by us"="Other apps by us";
+"Local Language"="Local Language";
+"Volunteer Translator"="Добровольным переводчиком";
+"Review"="Review";
+"Rate/Review it"="Оценить/Обзор Она";
+"Tell Friends"= "Рассказать друзьям";
+"EmailTitle1"="Эй, я хочу показать программку. Она отличная!";
+"EmailBody1"="http://itunes.apple.com/app/need-for-speed-joystick/id375490342?mt=8";
+"EmailTitle2"="I can help you make this program translated into other languages";
+"EmailBody2"="(Please tell us which language it can be translated with your help. Thank you!)";
+"Full Version"="Полная версия";
+"Full Version Features 1"="-Tech support & Free updates";
+"Full Version Features 2"="-No Ads";
+"Full Version Features 3"="-Game controller";
+"News"="больше";
+"Like This App?"="Любовь это приложение?";
+"Later" = "Later";
+"Connected success"="подключение успех";
+"Help"="Help";
+"Unlock"="Разблокировать";
+"Buy Full version"="Купить полную версию";
+"Free Unlock"="Бесплатный Unlock";
+"View tutorial and video"="Просмотр урока и видео";
+"Unlock More Features"="Если да, пожалуйста, оцените эту игру с 5 звезд на App Store, открыть больше возможностей";
+"Free Update Coming"="Если да, пожалуйста, оцените эту игру с 5 звезд на App Store, чтобы мы могли сохранить бесплатное обновление идет.";

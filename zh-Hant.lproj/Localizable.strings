@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  NFSJoystick
+
+  Created by  on 11-10-19.
+  Copyright (c) 2011年 __MyCompanyName__. All rights reserved.
+*/
+"UnableToConnect"="無法連接";
+"troubleshooting"="不能連接到伺服器端，查看如何排除故障嗎?";
+"troubleshooting alarm"="故障排除";
+"Shutdown"="關閉";
+"Boot"="開機";
+"HelpTitle1"="1. 伺服器安裝";
+"HelpBody1"="第一步是在你的電腦中安裝伺服器端，這樣應用程式就可以和你的電腦進行通信了。";
+"HelpTitle2"="2. 伺服器設置";
+"HelpBody2"="運行伺服器端，上面有關于網路連接的相關設置，你可以在説明欄目裡看到詳細的資訊。";
+"HelpTitle3"="3. 連接";
+"HelpBody3"="在你安裝好伺服器端之後，請運行本程式。它會自動搜索並且連接。如果不能連接，一定是你的網路或者電腦有阻礙連接的設置。";
+"HelpTitle4"="4. 故障排除";
+"HelpBody4"="如果你不能連接，請查看故障排除欄目或者網站尋求説明。";
+"HelpTitle5"="5. 遠端滑鼠";
+"HelpBody5"="第一個功能是用這個觸控板控制你的電腦，這個就像筆記本上面的觸控板一樣。";
+"HelpTitle6"="6. 鍵盤";
+"HelpBody6"="初始狀態鍵盤是隱藏的。你只需要向左輕輕甩動iPhone/iPod/iPad,鍵盤就會彈出來。";
+"HelpTitle7"="7. 遊戲控制";
+"HelpBody7"="現在你可以控制遊戲了，通過加速和刹車按鈕控制前行還是停止，左右輕輕轉到你的iPhone/iPod/iPad來控制車子左右拐彎。";
+
+"Connected"="	連接成功";
+"Searching"="搜索...";
+"Done"="完成";
+"Next"="其次";
+"Auto search for services"="自動搜索服務器，或者";
+"or enter your computer's IP & Port:"="輸入服務器的IP&端口:";
+"Server IP"="服務器 IP";
+"Port"="端口";
+"Status"="狀態";
+"Options"="選項";
+"Sound"="聲音";
+"Accelerometer"="Accelerometer";
+"Support"="Support";
+"View Help"="查看幫助";
+"Demo video"="試玩視頻";
+"Other apps by us"="我們的其他應用程序";
+"Local Language"="語言本地化";
+"Volunteer Translator"="翻譯自願者";
+"Review"="評價";
+"Rate/Review it"="給app寫評語";
+"Tell Friends"= "告訴朋友";
+"EmailTitle1"="嗨，我想讓你看一下這個程序，太棒了！";
+"EmailBody1"="http://itunes.apple.com/app/need-for-speed-joystick/id375490342?mt=8";
+"EmailTitle2"="我可以幫忙把這個程序翻譯成其他語言";
+"EmailBody2"="(請告訴我們您能幫助我們翻譯成哪種語言，謝謝！)";
+"Full Version"="完整版本";
+"Full Version Features 1"="-技術支持及免費更新";
+"Full Version Features 2"="-無廣告";
+"Full Version Features 3"="-遊戲控制";
+"News"="更多";
+"Like This App?"="喜愛這個程序？";
+"Later" = "Later";
+"Connected success"="連接成功";
+"Help"="幫助";
+"Unlock"="解鎖";
+"Buy Full version"="購買完整版本";
+"Free Unlock"="免費解鎖";
+"View tutorial and video"="查看教程和視頻";
+"Unlock More Features"="如果是這樣，請率5星在App Store上這個遊戲，解鎖更多的功能";
+"Free Update Coming"="如果是的話，請用5星在App Store上的評論這個遊戲，所以我們可以保持免費更新。";
